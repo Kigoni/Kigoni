@@ -1,6 +1,5 @@
 -  Hi, I’m @Kigoni
--  I’m interested in Machine Learning and Data
--  I’m currently learning ML
+-  Machine Learning and Data
 - ⚡ This is the way.
 
 <!---
