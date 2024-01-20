@@ -1,6 +1,5 @@
--  Hi, I’m @Kigoni
 -  Machine Learning and Data
-- ⚡ This is the way.
+  ⚡ This is the way.
 
 <!---
 Kigoni/Kigoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
