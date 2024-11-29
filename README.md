@@ -1,4 +1,5 @@
--  Machine Learning and Data
+-  DA | DS | ML | DL
+-  Fullstack Development
 - ⚡ This is the way.
 
 <!---
